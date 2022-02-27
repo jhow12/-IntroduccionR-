@@ -16,6 +16,6 @@
 **Memoria:** 81922MB RAM
 
 ## Programas Utilizados
-**Rstudio:** 
+**-Rstudio** 
 
-**R**
+**-R**
